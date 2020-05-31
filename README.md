@@ -1,2 +1,2 @@
 # i-was-bored
-A repository where I put all the shit I code when I'm bored
+A repository where I put all the shitd I code when I were bored
