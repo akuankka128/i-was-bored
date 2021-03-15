@@ -70,5 +70,5 @@ function mouseClicked() {
 function start() {
   background(0xffffff)
   fill('green');
-  circle(width / 2, height / 2, 40);
+  circle(width >> 1 height >> 1, 40);
 }
