@@ -1,0 +1,11 @@
+int
+let = 0;
+let // (exec("import sys; print('Hello, world!'); sys.exit()"));""" ??/
+message = "Hello, world!";
+;
+// ??/
+/*
+char* message = "Hello, world!\n";
+main() { printf(message); }
+// ??/
+*/ console.log(message); function int() {} //"""
